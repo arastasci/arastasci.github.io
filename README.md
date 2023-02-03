@@ -2,6 +2,7 @@
 ## Unnamed Multiplayer Shooter Game 
 ### About
 In this project I made an FPS multiplayer game made in Unity. The game is a fast-paced free-for-all deathmatch in which players have two guns: a pistol and a rocket launcher. Players can propel themselves with the rockets they launch and it is a vital part of the gameplay; players must be swift in order not to explode or get shot so they should use  this movement tool. You can also climb certain walls and wall jump. I was always fond of multiplayer games and I am a fan of fast-paced multiplayer shooters like Quake so this game pays homage to them.
+<img src="https://github.com/arastasci/arastasci.github.io/blob/master/arenaGifv2.gif" width=1000>
 
 
 ### Project Overview
