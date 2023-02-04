@@ -2,8 +2,7 @@
 ## Unnamed Multiplayer Shooter Game 
 ### About
 In this project I made an FPS multiplayer game made in Unity. The game is a fast-paced free-for-all deathmatch in which players have two guns: a pistol and a rocket launcher. Players can propel themselves with the rockets they launch and it is a vital part of the gameplay; players must be swift in order not to explode or get shot so they should use  this movement tool. You can also climb certain walls and wall jump. I was always fond of multiplayer games and I am a fan of fast-paced multiplayer shooters like Quake so this game pays homage to them.
-<img src="https://github.com/arastasci/arastasci.github.io/blob/master/arenaGifv2.gif" width=1000>
-![](https://github.com/arastasci/arastasci.github.io/blob/master/arenaGifv2.gif)
+<img src="arenaGifv2.gif" width=1000>
 
 ### Project Overview
 #### Netcode
@@ -18,6 +17,5 @@ The movement is heavily physics based. The players have rigidbody components and
 ## OpenGL Game Engine (Early Development)
 ### About
 In this still on-going project of mine I am making a mini game engine from scratch using C++ and OpenGL. I have made a model loading system using **Assimp** which can import almost any type of 3D model file. I have made use of **Phong shading** for rendering 3d objects affected by light casters. With the help of an online resource, I have also made a skeletal animation system which takes Collada (.dae) files and animates the object. I also took use of `ImGui` to make a GUI to easily manipulate variables at runtime. The current result is below:
-<img src="https://github.com/arastasci/arastasci.github.io/blob/master/opengldemogif.gif" width=1000>
-![](https://github.com/arastasci/arastasci.github.io/blob/master/opengldemogif.gif)
+<img src="opengldemogif.gif" width=1000>
 Here is a link to a full walkthrough of the project: [YouTube link](https://youtu.be/_5bF9Hu2eBs)
