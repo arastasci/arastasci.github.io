@@ -1,6 +1,7 @@
 <!-- # Introduction -->
 
-Hi there! I am Aras, a sophomore studying computer engineering in Bogazici University, Turkey. I am interested in game development and programming as well as game engine development. Below you will find my current portfolio.
+Hi there! I am Aras, a sophomore studying computer engineering in Bogazici University, Turkey. I am interested in game development and programming as well as game engine development. Below you will find my current projects.
+Here is a video showcasing my current portfolio: [YouTube](https://youtu.be/NU8Euroxe-E)
 
 Contact: <a href = "mailto: arastasci@gmail.com">arastasci@gmail.com</a>
 
@@ -12,18 +13,12 @@ You can see the source code [here](https://github.com/arastasci/opengl-render-en
 
 In this individual project I made a renderer using C++ and OpenGL. I aimed to understand more about how rendering and animation works and how to abstract them into classes and methods. I have especially learnt a ton of technical information regarding computer graphics.
 
-I made a modular engine that have the basic needs of a proper game engine. One can add entities to the scene or remove them, add light casters to entities or remove them, animate models that have animation files and draw all entities; each with individual method calls. User is also able to fly in the scene as mouse and keyboard inputs are taken.
+I made a modular engine that have the basic needs of a proper render engine. One can add entities to the scene or remove them, add light casters to entities or remove them, animate models that have animation files and draw all entities; each with individual method calls. User is also able to fly in the scene as mouse and keyboard inputs are taken.
 
 Using an online tutorial, I made a model loading system using **Assimp** which can import almost any type of 3D model file. I made use of **Phong shading** for rendering 3d objects affected by light casters. With the help of an online tutorial, I have also made a skeletal animation system which takes Collada (.dae) files and animates the object. I also learned to use **ImGui** to make a GUI to easily manipulate variables at runtime.
 
 My main takeaway from this project was understanding the design of a game engine and how various components communicate with each other.
 Experimenting with different design choices and seeing how they make the programmer's day easier in some places but harder in others gave me a deeper understanding of game engines and in general, software design.
-
-The current result is below:
-
-<img src="content/opengldemogif.gif" width=600>
-
-Here is a link to a full walkthrough of the project: [YouTube link](https://youtu.be/_5bF9Hu2eBs)
 
 # Multiplayer Shooter Game
 
